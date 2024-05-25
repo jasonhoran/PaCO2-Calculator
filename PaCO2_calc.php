@@ -21,12 +21,12 @@ a {
         <table> 
             <tr> 
                 <td><label for="pvco2">PvCO<sub>2</sub>:</label></td> 
-                <td><input type="text" id="pvco2" name="pvco2"></td>
+                <td><input type="number" id="pvco2" name="pvco2" min="2" max="20" step="0.1"></td>
                 <td>kPa</td>  
             </tr> 
             <tr> 
                 <td><label for="svo2">SvO<sub>2</sub>:</label></td> 
-                <td><input type="text" id="svo2" name="svo2"></td> 
+                td><input type="number" id="svo2" name="svo2" min="80" max="100" step="1"></td>
                 <td>%</td>  
             </tr>
             <tr><td>&nbsp;</td></tr>  
