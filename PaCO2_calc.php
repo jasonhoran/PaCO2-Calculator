@@ -26,7 +26,7 @@ a {
             </tr> 
             <tr> 
                 <td><label for="svo2">SvO<sub>2</sub>:</label></td> 
-                <td><input type="number" id="svo2" name="svo2" min="80" max="100" step="1"></td> 
+                <td><input type="number" id="svo2" name="svo2" min="50" max="100" step="1"></td> 
                 <td>%</td>  
             </tr>
             <tr><td>&nbsp;</td></tr>  
