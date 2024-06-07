@@ -31,7 +31,7 @@ a {
             </tr>
             <tr><td>&nbsp;</td></tr>  
             <tr> 
-                <td><input type="submit" value="Calculate"></td> 
+                <td><input type="submit" formtarget="_self" value="Calculate"></td> 
             </tr>
         </table> 
     </form> 
